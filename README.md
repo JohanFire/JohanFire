@@ -5,8 +5,7 @@
 # <div style="text-align: center;">Hi👋, I'm Johan Tristán</div>
 <p style="text-align: center;">A passionate Software Developer from México</p>
 
-<br>
-<br>
+
 
 - 🔭 I’m currently working for **BOSCH**.
 - 🌱 I’m currently learning **React Native**.
