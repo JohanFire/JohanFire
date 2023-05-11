@@ -2,8 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johanfire&label=Profile%20views&color=0e75b6&style=flat" alt="johanfire" /> </p>
 
-# <div style="text-align: center;">Hi👋, I'm Johan Tristán</div>
-<p style="text-align: center;">A passionate Software Developer from México</p>
+<h1 align="center">Hi 👋, I'm Johan Tristán</h1>
+<h3 align="center">A passionate Software Developer from México.</h3>
+<br>
 
 
 
