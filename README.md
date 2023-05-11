@@ -29,9 +29,9 @@
 <!-- style="text-align: center;" -->
 
 <!-- Most Used Languages -->
-<div>
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=johanfire&show_icons=true&locale=en&layout=compact" alt="johanfire" /></p>
-</div>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanfire&show_icons=true&locale=en&layout=compact" alt="johanfire" />
+</p>
 <!-- Stats -->
 <!-- <div style="text-align: center;">
     <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=johanfire&show_icons=true&locale=en" alt="johanfire" /></p>
