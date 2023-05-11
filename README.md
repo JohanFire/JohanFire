@@ -7,7 +7,6 @@
 
 <br>
 <br>
-<br>
 
 - 🔭 I’m currently working for **BOSCH**.
 - 🌱 I’m currently learning **React Native**.
