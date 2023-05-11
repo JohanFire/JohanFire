@@ -32,7 +32,6 @@
 <div>
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=johanfire&show_icons=true&locale=en&layout=compact" alt="johanfire" /></p>
 </div>
-
 <!-- Stats -->
 <!-- <div style="text-align: center;">
     <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=johanfire&show_icons=true&locale=en" alt="johanfire" /></p>
