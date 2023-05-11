@@ -3,7 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johanfire&label=Profile%20views&color=0e75b6&style=flat" alt="johanfire" /> </p>
 
 # <div style="text-align: center;">Hi👋, I'm Johan Tristán</div>
-<div style="text-align: center;">A passionate Software Developer from México</div>
+<p style="text-align: center;">A passionate Software Developer from México</p>
+
+<br>
 
 - 🔭 I’m currently working for **BOSCH**.
 - 🌱 I’m currently learning **React Native**.
