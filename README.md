@@ -36,17 +36,18 @@
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johanfire&show_icons=true&locale=en&layout=compact" alt="johanfire" />
 </p>
+
 <!-- Stats -->
 <!-- <div style="text-align: center;">
     <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=johanfire&show_icons=true&locale=en" alt="johanfire" /></p>
 </div> -->
 
 <!-- Stats -->
-<div>
+<!-- <div>
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=johanfire&" alt="johanfire" /></p>
-</div>
+</div> -->
 
 <!-- Trophies -->
-<div>
+<!-- <div>
     <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johanfire" alt="johanfire" /></a> </p>
-</div>
+</div> -->
