@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Johan Tristán</h1>
 <h3 align="center">A passionate Software Developer from México.</h3>
-<h3 align="center"><a href="https://www.johanfire.com">www.johanfire.com</a></h3>
+<h3 align="center"><a href="https://www.johanfire.com" target="_blank">www.johanfire.com</a></h3>
 <br>
 
 
@@ -13,7 +13,8 @@
 - 🌱 I’m currently learning **React Native**.
 - 💬 Ask me about **Python, Django**.
 - ⚡ Fun fact: **At sometime I thought I would be a musician**.
-- 📫 How to reach me: **[linkedin.com/in/johanfire/](https://www.linkedin.com/in/johanfire/)**
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/johanfire/" target="_blank">linkedin.com/in/johanfire/</a>
+<!-- - 📫 How to reach me: **[linkedin.com/in/johanfire/](https://www.linkedin.com/in/johanfire/)** -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
