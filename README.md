@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johanfire&label=Profile%20views&color=0e75b6&style=flat" alt="johanfire" /> </p>
 
-<h1 align="center">Hi 👋, I'm Johan Tristán</h1>
+<h1 align="center">Hi👋, I'm Johan Tristán</h1>
 <h3 align="center">A passionate Software Developer from México.</h3>
 <h3 align="center"><a href="https://www.johanfire.com" target="_blank">www.johanfire.com</a></h3>
 <br>
