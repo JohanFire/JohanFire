@@ -9,9 +9,9 @@
 
 
 
-- 🔭 I’m currently working for **BOSCH**.
-- 🌱 I’m currently learning **React Native**.
-- 💬 Ask me about **Python, Django**.
+- 🔭 I’m currently working for **BOSCH México**.
+- 🌱 I’m currently learning **Machine Learning**.
+- 💬 Ask me about **Python**.
 - ⚡ Fun fact: **At sometime I thought I would be a musician**.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/johanfire/" target="_blank">linkedin.com/in/johanfire/</a>
 <!-- - 📫 How to reach me: **[linkedin.com/in/johanfire/](https://www.linkedin.com/in/johanfire/)** -->
