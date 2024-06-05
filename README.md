@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working for **BOSCH México**.
-- 🌱 I’m currently learning **LLM development*.
+- 🌱 I’m currently learning **LLM development**.
 - 💬 Ask me about **Python**.
 - ⚡ Fun fact: **At sometime I thought I would be a musician**.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/johanfire/" target="_blank">linkedin.com/in/johanfire/</a>
