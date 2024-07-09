@@ -9,11 +9,11 @@
 
 
 
-- 🔭 I’m currently working for **BOSCH México**.
-- 🌱 I’m currently learning **LLM development**.
-- 💬 Ask me about **Python**.
-- ⚡ Fun fact: **At sometime I thought I would be a musician**.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/johanfire/" target="_blank">linkedin.com/in/johanfire/</a>
+- 🔭 Working for **BOSCH México**.
+- 🌱 Currently learning **LLM development**.
+<!-- - 💬 Ask me about **Python**. -->
+<!-- - ⚡ Fun fact: **At sometime I thought I would be a musician**. -->
+<!-- - 📫 How to reach me: <a href="https://www.linkedin.com/in/johanfire/" target="_blank">linkedin.com/in/johanfire/</a> -->
 <!-- - 📫 How to reach me: **[linkedin.com/in/johanfire/](https://www.linkedin.com/in/johanfire/)** -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
